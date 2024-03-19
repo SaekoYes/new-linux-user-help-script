@@ -2,7 +2,7 @@ Simple help script to get new linux users acclimated to the terminal. This scrip
 actually coding again.
 
 todo
->write in better language
->add more stuff
->make interactive
->more cats :3 
+//write in better language
+//add more stuff
+//make interactive
+//more cats :3 
